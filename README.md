@@ -1,8 +1,8 @@
-# Voting DApp
+# Voting Smart Contract
 
 This repository contains code for a voting smart contract that allows users to create a poll and vote on it. The smart
-contract is written using (ink!)[https://use.ink/]. **ink!** smart contracts are written in
-(Rust)[https://www.rust-lang.org/] and are compiled to WebAssembly before being deployed on the blockchain.
+contract is written using [ink!](https://use.ink/). **ink!** smart contracts are written in
+[Rust](https://www.rust-lang.org/) and are compiled to WebAssembly before being deployed on the blockchain.
 
 ## Getting Started
 
